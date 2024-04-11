@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Lista de Tarefas fazendo un Crud, foi usado a biblioteca tailwind css para estilos, além do Next.js.
+
 ## Getting Started
 
 First, run the development server:
